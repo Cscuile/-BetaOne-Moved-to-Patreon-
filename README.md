@@ -1,5 +1,5 @@
 # BetaOne
-Main BetaOne Hub https://discord.gg/kfyhvX3
+Main BetaOne Hub (SF Discord): https://discord.gg/kfyhvX3
 
 I need your help! (2/26/18): 
 For now, please collect any chess engine games you can find and post a download link in (POST GAME LINKS HERE) High Quality Games Link.
