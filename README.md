@@ -1,5 +1,6 @@
 # BetaOne
 BetaOne Releases & Updates: https://www.patreon.com/BetaOne
+**BetaOne Discord**
 BetaOne Discord: https://discord.gg/kfyhvX3
 (Development will occur here)
 
