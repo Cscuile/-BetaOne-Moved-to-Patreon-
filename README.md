@@ -8,4 +8,4 @@ If you have any questions please feel free to ask me on discord. Cscuile#0044
 
 **What is BetaOne?**
 
-BetaOne will take the non-zero approach to produce the strongest chess entity possible under our resources.
+BetaOne is a neural network that uses the non-zero approach with the hope of producing a chess engine stronger than the zero Leela Chess Zero network.
